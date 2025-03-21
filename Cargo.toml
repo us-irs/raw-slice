@@ -1,0 +1,19 @@
+[package]
+name = "raw-slicee"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85.1"
+authors = ["Robin Mueller <muellerr@irs.uni-stuttgart.de>"]
+description = "Generic low-level raw slice types"
+homepage = "https://egit.irs.uni-stuttgart.de/rust/raw-slice"
+repository = "https://egit.irs.uni-stuttgart.de/rust/raw-slice"
+license = "Apache-2.0 OR MIT"
+keywords = ["no-std", "slice", "embedded", "dma", "pointer"]
+categories = ["no-std", "no-std::no-alloc", "hardware-support", "embedded", "data-structures"]
+
+# Name was hogged.
+[lib]
+name = "raw_slice"
+
+[dependencies]
+embedded-dma = "0.2"
