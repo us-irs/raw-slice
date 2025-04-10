@@ -1,5 +1,5 @@
 [![Crates.io](https://img.shields.io/crates/v/raw-slicee)](https://crates.io/crates/raw-slicee)
-[![docs.rs](https://img.shields.io/docsrs/raw-slice)](https://docs.rs/raw-slice)
+[![docs.rs](https://img.shields.io/docsrs/raw-slicee)](https://docs.rs/raw-slicee)
 [![ci](https://github.com/us-irs/raw-slice/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/us-irs/raw-slice/actions/workflows/ci.yml)
 
 `raw-slice` - Generic raw slice types

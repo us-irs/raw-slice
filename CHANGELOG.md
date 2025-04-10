@@ -12,4 +12,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 Initial release
 
-[v0.1.0]: https://egit.irs.uni-stuttgart.de/rust/raw-slice/releases/tag/v0.1.0
+[v0.1.0]: https://egit.irs.uni-stuttgart.de/rust/raw-slicee/releases/tag/v0.1.0
